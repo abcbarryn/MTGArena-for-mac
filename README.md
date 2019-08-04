@@ -1,8 +1,8 @@
 # Installing MTGA on macOS using Wine, and making it look pretty!
 
-The following instructions are heavily inspired by [/u/uhohohdear](https://www.reddit.com/user/uhohohdear). I modified [uhohohdear's instructions](https://www.reddit.com/r/MagicArena/comments/95rgko/a_guide_to_run_mtg_arena_with_wine_on_osx/) and then added support for Retina/HiDPI displays and instructions about how to update MTGA.
+The following instructions are heavily inspired by [/u/uhohohdear](https://www.reddit.com/user/uhohohdear).
 
-**IMPORTANT UPDATE:** ~~As of July 25, 2019, this method no longer works. I have a workaround posted [here](https://gist.github.com/prestia/4e92b5718e2d0d553318586be85158a5#gistcomment-2981165).~~ WOTC just released a [new executable](https://forums.mtgarena.com/forums/threads/58489) that should work with these original directions. I updated the download link below. I haven't tested this yet, so let me know how it goes!
+**IMPORTANT UPDATE:** ~~ WOTC just released a [new executable](https://forums.mtgarena.com/forums/threads/58489) that should work with these original directions. I updated the download link below.
 
 ## Dependencies
 
