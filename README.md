@@ -91,8 +91,8 @@ exec "$dir"/MacOS/WineskinLauncher.bin $@
 ### There's an Arena update and nothing works anymore!
 Yeah. It's annoying. You will need to download a new msi and reinstall.
 
-1. Either unzip the empty Wineskin wrapper again (MTGArena.app) or right click it and select "Show Package Contents" and click "Wineskin" then click "Advanced", then "Tools", then "Rebuild Wrapper". You should now have an "empty" wrapper again. Exit.
-3. Double click the wrapper and select "Install Software"
+1. Either unzip the empty Wineskin wrapper again (MTGArena.app) or right click MTGArena and select "Show Package Contents" and click "Wineskin" then click "Advanced", then "Tools", then "Rebuild Wrapper". You should now have an "empty" wrapper again. Exit.
+3. Double click the MTGArena and select "Install Software"
 4. Click "Choose Setup Executable"
 5. Navigate to and select the Magic the Gathering Arena Windows msi file you previously downloaded
 6. Install as above.
