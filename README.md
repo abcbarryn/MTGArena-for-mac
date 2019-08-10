@@ -9,7 +9,7 @@ The following instructions are heavily inspired by [/u/uhohohdear](https://www.r
 0. Your macOS/OS X version must be 10.8 or greater
 1. Your Mac must support OpenGL 4.0 or greater (you can find out whether it does [here](https://support.apple.com/HT202823))
 2. You must download the [Magic the Gathering Arena Windows executable](https://forums.mtgarena.com/forums/threads/58489)
-3. You must download [makeMTGArena.command](https://raw.githubusercontent.com/abcbarryn/MTGArena-for-mac/master/makeMTGArena.command) and run it. It will create MTGArena.app, which is a custom Wineskin wrapper you can use to install MTGArena.
+3. You must download [makeMTGArena.zip](https://github.com/abcbarryn/MTGArena-for-mac/releases/download/Ver-1.0/MTGArena.zip) and unzip it. It will create MTGArena.app, which is a custom Wineskin wrapper you can use to install MTGArena.
 
 *Note: If you're like me, you may not trust unofficial Wineskin wrappers. Unfortunately, the Wineskin project is way behind and only supports Wine 2.x. We need at least Wine 3.0 to run MTGA. If Wineskin ever gets around to updating, you can get the official download [here](http://wineskin.urgesoftware.com/tiki-index.php?page=Downloads).*
 
