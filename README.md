@@ -1,5 +1,7 @@
 # Installing MTGA on macOS using Wine, and making it look pretty!
 
+WOTC has realeased an official Macbinary. Please run that! Do not use these instructions! They are now here for hisorical puroposes ONLY!
+
 The following instructions are heavily inspired by [/u/uhohohdear](https://www.reddit.com/user/uhohohdear).
 
 **IMPORTANT UPDATE:** ~~ WOTC just released a [new executable](https://forums.mtgarena.com/forums/threads/58489) that should work with these original directions. I updated the download link below.
